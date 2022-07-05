@@ -22,7 +22,7 @@ pip install requests
 pip install futures
 pkg in ruby -y
 git clone https://github.com/Rafsan-143/Crack-3-11
-cd Crack-3-11
+cd Crack-4-11
 python R-Crack.py
 ```
 Inbox Me 
